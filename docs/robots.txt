@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://laitianliu.github.io/sitemap.xml
