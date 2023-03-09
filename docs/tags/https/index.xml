@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>https on Galaxy</title>
+    <link>https://laitianliu.github.io/tags/https/</link>
+    <description>Recent content in https on Galaxy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2016-2023 Galaxy. All Rights Reserved.
+</copyright>
+    <lastBuildDate>Thu, 09 Mar 2023 21:36:50 +0800</lastBuildDate><atom:link href="https://laitianliu.github.io/tags/https/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HTTPS 机制原理</title>
+      <link>https://laitianliu.github.io/blog/https_secure/</link>
+      <pubDate>Thu, 09 Mar 2023 21:36:50 +0800</pubDate>
+      
+      <guid>https://laitianliu.github.io/blog/https_secure/</guid>
+      <description><![CDATA[网络传输安全性 http 协议：不安全未加密 HTTPS 协议是由 HTTP 加上 TLS/SSL 协议构建的可进行加密传输、身份认证的网络协议，主要通过数字证书、加密算法、非对称密钥等技]]></description>
+    </item>
+    
+  </channel>
+</rss>
+
